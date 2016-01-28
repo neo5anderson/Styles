@@ -8,6 +8,7 @@
     - [格式](cpp/format.md)
     - [规则之外](cpp/out_of_rules.md)
 
-+ [Python](python/README.md)
-    - [1]()
++ [Python](py/README.md)
+    - [语言规范](py/language.md)
+    - [风格规范](py/style.md)
 
